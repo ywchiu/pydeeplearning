@@ -1,5 +1,8 @@
 # 手把手教你用Python实践深度学习
 
+## 課程內容
+- https://edu.hellobi.com/course/278
+
 ## 課前須知
 
 ### 下載 Anaconda
